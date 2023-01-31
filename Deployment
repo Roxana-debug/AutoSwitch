@@ -1,8 +1,10 @@
-App requirements: Features of the app will be focusing in the client needs.
-Platform will be available in Android(google play store) also in Iphone(app store)
-The app will be built will Java Programming language.
-We will develop a user interface for the customer to search reserve and manage car rentals. 
-After that we will take care to develop a server to manage data and perform business logic.
-One of our staff members will make sure to connect the app to a payment gateway to process transactions.
-All of us will check the app and thoroughly test the app for functionality, security, and performance.
-In the end we will launch the app and release it on the app store and make it available for download for any user.
+App requirements:
+
+1. Features of the app will be focusing in the client needs.
+2. Platform will be available in Android(google play store) also in Iphone(app store)
+3. The app will be built will Java Programming language.
+4. We will develop a user interface for the customer to search reserve and manage car rentals. 
+5. After that we will take care to develop a server to manage data and perform business logic.
+6. One of our staff members will make sure to connect the app to a payment gateway to process transactions.
+7. All of us will check the app and thoroughly test the app for functionality, security, and performance.
+8. In the end we will launch the app and release it on the app store and make it available for download for any user.

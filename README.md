@@ -18,6 +18,8 @@ REQUIREMENTS
 The software should generate scheduled reports that we will declare in the front of the website. 
 The software should keep track of the number of people we have to serve, the work orders that they are searching for, the model or the type of our cars. 
 The software should provide an easy interface to use where the cars can be rent as requested. The software should keep tracking which cars are being rented and which cars are able to be rented.
+
+
 Team Leader:
 
 Roksana Ndreca
